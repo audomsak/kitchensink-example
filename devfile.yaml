@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  name: java-eap-maven
+  name: my-test-project
 projects:
   - name: kitchensink-example
     source:
