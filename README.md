@@ -1,7 +1,7 @@
 kitchensink-jsp: Example Using Multiple Jakarta EE 6 Technologies with a JSP (JavaServer Pages) Front End
 ======================================================================================================
 
-<a href="https://codeready-openshift-workspaces.apps.cluster-5ac3.5ac3.sandbox1017.opentlc.com/f?url=https://github.com/audomsak/kitchensink-example"><img src="https://audomsak.tinytake.com/media/1007453?filename=1620599609704_10-05-2564-05-33-28.png&sub_type=thumbnail_preview&type=attachment&width=452&height=52" width="250" height="30" /></a>
+<a href="codeready-openshift-workspaces.apps.cluster-85fc.85fc.sandbox900.opentlc.com/f?url=https://github.com/audomsak/kitchensink-example"><img src="https://audomsak.tinytake.com/media/1007453?filename=1620599609704_10-05-2564-05-33-28.png&sub_type=thumbnail_preview&type=attachment&width=452&height=52" width="250" height="30" /></a>
 
 Author: Elvadas Nono
 
